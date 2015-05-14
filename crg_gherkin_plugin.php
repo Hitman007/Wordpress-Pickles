@@ -2,7 +2,7 @@
 /*
 Plugin Name: CRG Pickles
 Plugin URI: http://customrayguns.com
-Description: CRG Gherkin
+Description: CRG Gherkin Processor
 Version: 1.0
 Author: Custom Ray Guns
 Author URI: http://customrayguns.com
