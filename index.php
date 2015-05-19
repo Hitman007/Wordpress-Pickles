@@ -1,3 +1,3 @@
 <?php
-// yo whatcha looking at?
+// yo whatcha looking at? Cocksucker!
 ?>
