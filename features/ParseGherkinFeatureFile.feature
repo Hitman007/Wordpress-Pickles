@@ -12,4 +12,7 @@ Scenario: the user should input a feature file
 
 Scenario: the Pickels plugin should parse the file
   Given the user inputs the .feature file into the form
+  When the Pickles plugin parses the file
+  Then each Gherkin stakement is stored as a Wordpress Custom Post Type "pickle"
+  And there is assorted meta data associated with the pickle
   
