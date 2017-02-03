@@ -1,7 +1,7 @@
 Feature: The plugin accepts .feature files and parses them into CPTs
-  In order to input a Gherkin feature file into the system
-  the Pickles plugin
+  The Pickles plugin
   Should be able to accept a feature file and parse it into CPTs
+  in order to input a Gherkin feature file into the system
 
 Scenario: the user should input a feature file
   Given the user has an external feature file
