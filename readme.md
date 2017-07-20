@@ -16,6 +16,6 @@ In your Wordpress admin area, go to "Plugins", then look for "CRG Gherkin" and c
 The code is pretty well documented. You can use the CPTs just like regular Wordpress posts. In the future, this can be the basis of other applications.
 
 ## DEVELOPERS WANTED ##
-Hey guys, I could use some help. If you're a Wordpress programmer or developer, contact me to conrtibute! customrayguns.com jim@customrayguns.com
+Hey guys, I could use some help. If you're a Wordpress programmer or developer, contact me to conrtibute! customrayguns.com customrayguns@gmail.com
 
 ![pickles_screen_shot.jpg](https://bitbucket.org/repo/aAdo7g/images/1209142840-pickles_screen_shot.jpg)
